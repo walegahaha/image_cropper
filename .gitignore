@@ -1,0 +1,10 @@
+datasets/*
+log/*
+models/*
+__pycache__
+result/images/*
+result/crops/*
+result/masks/*
+test_images/image_url.txt
+test_images/*.jpg
+
